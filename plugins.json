@@ -3,11 +3,11 @@
       "id": "nf-observer",
       "releases": [
         {
-          "version": "0.2.0",
-          "url": "https://github.com/invitae-internal/nf-observer/releases/download/0.2.0/nf-observer-0.2.0.zip",
-          "date": "2024-03-23T03:45:12.600508887-05:00",
-          "sha512sum": "4a7d87ac73d7f29d0828f33e9f901d1d65ee008989178bb039b439e2024d865a51947e2595250b7a78f17910a490ca438dba889ccdfb9196eaed1c54ea35d2e8",
-          "requires": ">=23.10.0"
+          "version": "0.1.4",
+          "url": "https://github.com/drsantos20/nf-observer/releases/download/0.1.3/nf-observer-0.1.3.zip",
+          "date": "2024-04-16T03:45:12.600508887-05:00",
+          "sha512sum": "f366b480c36f1b2f28f867a70e03120104b8662ca44f105341162f92ac9ee9a7addaf4df9d995785c4bb92254d0fa9cd478f55d52a0e007552ac279037f65825",
+          "requires": ">=23.01.0"
         }
       ]
     }
